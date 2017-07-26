@@ -2,7 +2,7 @@
   
 ## Current
 ```
-Names		Date Elected	Date Ended  
+Names		Date Honoured	Date Ended  
 Paymon Jalali	Jan 12, 2017	Jan 12, 2018  
 ```
 
