@@ -4,7 +4,7 @@
 ```
 Names			Date Honoured	Date Ended  
 Corbett Gildersleve	Sept 13, 2017	Sept 13, 2018
-Saun-Nam Chang		Sept 13, 2017	Sept 13, 2018
+Sau-Nam Chang		Sept 13, 2017	Sept 13, 2018
 Robert Tan		Sept 13, 2017	Sept 13, 2018
 Eric Ly			Sept 13, 2017	Sept 13, 2018
 Andy Sun		Sept 13, 2017	Sept 13, 2018
