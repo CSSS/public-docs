@@ -3,8 +3,8 @@
 ## Current
 ```
 Names			Date Honoured	Date Ended  
-Truman Bai              May 18, 2018  May 18, 2019
-Brendan Chan            May 18, 2018  May 18, 2019
+Truman Bai              May 18, 2018    May 18, 2019
+Brendan Chan            May 18, 2018    May 18, 2019
 Corbett Gildersleve	Sept 13, 2017	Sept 13, 2018
 Sau-Nam Chang		Sept 13, 2017	Sept 13, 2018
 Robert Tan		Sept 13, 2017	Sept 13, 2018
