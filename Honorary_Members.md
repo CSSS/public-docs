@@ -5,8 +5,8 @@
 Names			Date Honoured	Date Ended  
 Truman Bai              May 18, 2018    May 18, 2019
 Brendan Chan            May 18, 2018    May 18, 2019
-Courtenay Huffman       March 28, 2018   March 28, 2019
-Paymon Jalali           March 16, 2018   March 16, 2019
+Courtenay Huffman       March 28, 2018  March 28, 2019
+Paymon Jalali           March 16, 2018  March 16, 2019
 Corbett Gildersleve	Sept 13, 2017	Sept 13, 2018
 Sau-Nam Chang		Sept 13, 2017	Sept 13, 2018
 Robert Tan		Sept 13, 2017	Sept 13, 2018
