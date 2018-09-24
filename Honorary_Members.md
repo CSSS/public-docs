@@ -7,7 +7,7 @@ Raiya Park              Sept 12, 2018     Sept 12 2019
 John Wu                 June 27, 2018    June 27, 2019
 Truman Bai              May 18,  2018    May 18,  2019
 Brendan Chan            May 18,  2018    May 18,  2019
-Jonathon Loewen         Apr 9, 2018       Apr 9, 2019
+Jonathon Loewen         Apr 9, 2018        Apr 9, 2019
 Courtenay Huffman       March 28, 2018  March 28, 2019
 Paymon Jalali           March 16, 2018  March 16, 2019
 ```
