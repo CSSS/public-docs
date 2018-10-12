@@ -20,7 +20,7 @@ Sau-Nam Chang		Sept 13, 2017	Sept 13, 2018
 Robert Tan		Sept 13, 2017	Sept 13, 2018
 Eric Ly			Sept 13, 2017	Sept 13, 2018
 Andy Sun		Sept 13, 2017	Sept 13, 2018
-Paymon Jalali		Jan 12, 2017	Jan 12, 2018  
+Paymon Jalali		Jan 12, 2017	 Jan 12, 2018  
 Kenneth Bruskiewicz	April 1, 2016	April 1, 2017
 Sau-Nam Chang  
 Andre			July 11, 2016	July 11, 2017  
