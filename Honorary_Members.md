@@ -3,7 +3,7 @@
 ## Current
 ```
 Names			Date Honoured	Date Ended  
-Andy Sun		   Oct 10, 2018	    Oct 10, 2019
+Andy Sun		Oct 10, 2018	    Oct 10, 2019
 Raiya Park              Sept 12, 2018     Sept 12 2019
 John Wu                 June 27, 2018    June 27, 2019
 Truman Bai              May 18,  2018    May 18,  2019
