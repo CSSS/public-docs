@@ -23,7 +23,7 @@ Andy Sun		Sept 13, 2017	Sept 13, 2018
 Paymon Jalali		Jan 12, 2017	 Jan 12, 2018  
 Kenneth Bruskiewicz	April 1, 2016	April 1, 2017
 Sau-Nam Chang  
-Andre	Vacariu		July 11, 2016	July 11, 2017  
+Andre Vacariu			July 11, 2016	July 11, 2017  
 Colin Woodbury		May 16, 2016	 May 15, 2017 
 Sau-Nam Chang           Oct 21, 2015     Oct 21, 2016
 Eric Ly                 Oct 21, 2015     Oct 21, 2016
