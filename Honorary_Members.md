@@ -3,7 +3,7 @@
 ## Current
 ```
 Names			Date Honoured	Date Ended
-Brigham XX            Oct 24, 2018    Oct 24, 2019
+Brigham XX              Oct 24, 2018    Oct 24, 2019
 Andy Sun		Oct 10, 2018	  Oct 10, 2019
 Hailey Friesen          Sept 26, 2018   Sept 26, 2019
 Raiya Park              Sept 12, 2018    Sept 12, 2019
