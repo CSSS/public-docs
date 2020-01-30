@@ -3,11 +3,6 @@
 ## Current
 ```
 Names			Date Honoured	Date Ended
-
-```
-
-## Past
-```  
 Truman	  Bui	      2019-27-03	2020-27-03
 Brendan	  Chen	    2019-15-05	2020-15-05
 Gary 	    Moon	    2019-15-05	2020-15-05
@@ -21,6 +16,10 @@ Nina	    Djokic	  2019-11-09	2020-11-09
 Hailey	  Friesen	  2019-16-09	2020-16-09
 Eva	      Zhu	      2019-16-09	2020-16-09
 Cole	    Greer	    2019-12-02	2020-12-02
+```
+
+## Past
+```  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Brigham XX              Oct 24, 2018    Oct 24, 2019
 Andy Sun		Oct 10, 2018	  Oct 10, 2019
