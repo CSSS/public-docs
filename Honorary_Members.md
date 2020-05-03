@@ -3,18 +3,18 @@
 ## Current
 ```
 Names			Date Honoured	Date Ended
-Truman    Bui	      2020-30-04	2021-30-04
-Brendan   Chen	    2019-15-05	2020-15-05
-Gary      Moon	    2020-30-04	2021-30-04
-Matt      Maxwell	  2019-15-05	2020-15-05
-Kasra     Jamshidi	2019-29-05	2020-29-05
-Jonathan  Loewen	  2020-30-04	2021-30-04
-Clement   Ip	      2019-24-07	2020-24-07
-Akash     Bhatthal 	2019-24-07	2020-24-07
-Nina      Djokic	  2019-11-09	2020-11-09
-Hailey    Friesen	  2019-16-09	2020-16-09
-Eva       Zhu	      2019-16-09	2020-16-09
-Cole      Greer	    2019-12-02	2020-12-02
+Truman    Bui       2020-30-04	2021-30-04
+Brendan   Chen      2019-15-05	2020-15-05
+Gary      Moon      2020-30-04	2021-30-04
+Matt      Maxwell   2019-15-05	2020-15-05
+Kasra     Jamshidi  2019-29-05	2020-29-05
+Jonathan  Loewen    2020-30-04	2021-30-04
+Clement   Ip        2019-24-07	2020-24-07
+Akash     Bhatthal  2019-24-07	2020-24-07
+Nina      Djokic    2019-11-09	2020-11-09
+Hailey    Friesen   2019-16-09	2020-16-09
+Eva       Zhu       2019-16-09	2020-16-09
+Cole      Greer     2019-12-02	2020-12-02
 Ryan      Lai       2020-30-04  2021-30-04
 Ryan      Vansickle 2020-30-04  2021-30-04
 Jace      Manshadi  2020-30-04  2021-30-04
