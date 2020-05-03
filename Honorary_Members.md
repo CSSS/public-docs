@@ -14,7 +14,7 @@ Akash     Bhatthal  2019-24-07	2020-24-07
 Nina      Djokic    2019-11-09	2020-11-09
 Hailey    Friesen   2019-16-09	2020-16-09
 Eva       Zhu       2019-16-09	2020-16-09
-Cole      Greer     2019-12-02	2020-12-02
+Cole      Greer     2019-30-04	2020-30-04
 Ryan      Lai       2020-30-04  2021-30-04
 Ryan      Vansickle 2020-30-04  2021-30-04
 Jace      Manshadi  2020-30-04  2021-30-04
