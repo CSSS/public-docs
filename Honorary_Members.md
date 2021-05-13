@@ -2,7 +2,7 @@
   
 ## Current
 ```
-Names Date Honoured	Date Ended
+Names   Date Honoured	Date Ended
 Jace Manshadi  2021-12-05  2022-12-05
 Shariq Ahsan   2021-12-05  2022-12-05
 Cole Greer     2021-12-05  2022-12-05
