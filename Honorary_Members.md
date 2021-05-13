@@ -2,11 +2,11 @@
   
 ## Current
 ```
-Names			Date Honoured	Date Ended
-Jace Manshadi  2020-12-05  2021-12-05
-Shariq Ahsan   2020-12-05  2021-12-05
-Cole Greer     2020-12-05  2021-12-05
-Winfield Chen  2020-12-05  2021-12-05
+Names			     Date Honoured	Date Ended
+Jace Manshadi  2021-12-05  2022-12-05
+Shariq Ahsan   2021-12-05  2022-12-05
+Cole Greer     2021-12-05  2022-12-05
+Winfield Chen  2021-12-05  2022-12-05
 ```
 
 ## Past
