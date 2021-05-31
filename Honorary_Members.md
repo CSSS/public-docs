@@ -7,6 +7,8 @@ Jace Manshadi  2021-12-05  2022-12-05
 Shariq Ahsan   2021-12-05  2022-12-05
 Cole Greer     2021-12-05  2022-12-05
 Winfield Chen  2021-12-05  2022-12-05
+Yolanda Lam    2021-05-26  2022-05-26
+Truman Bui     2021-05-26  2022-05-26
 ```
 
 ## Past
