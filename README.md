@@ -8,6 +8,3 @@ Please review the form before submission, as the requirements and details may ch
 
 By submitting this proposal, you agree that you will be held responsible for the validity of the information provided. If information is found to be intentionally false, the CSSS reserves the right to deny all future proposals. You are responsible, as the person submitting this proposal, for all damages or accidents generated during the event, or caused by the event. This includes, but is not limited to damages to: electronic equipment, AV equipment, CSIL lab equipment, CSIL lab furniture, and all properties owned by the Simon Fraser University that was either present during the event or was lent to you. You acknowledge and agree to uphold all relevant CSIL Lab rules set forth by the SFU School of Computing Science, and you are responsible for enforcing these rules on your participants.
 Lastly, you acknowledge that all proposals are subject to room availability and the approval of the CSSS and/or SFU School of Computing Science. Consequently, additional conditions or restrictions may be added at any time prior to the approval of your application.
-
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CSSS/public-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
