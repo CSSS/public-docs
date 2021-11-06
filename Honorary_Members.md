@@ -13,6 +13,8 @@ Trevor Gale     2021-09-24  2022-09-24
 Darien Imai     2021-09-24  2022-09-24
 Parker Hao Tian 2021-10-22  2022-10-22
 Sahil Singh     2021-10-22  2022-10-22
+Zaid Lari       2021-11-05  2022-11-05
+Tony Yu         2021-11-05  2022-11-05
 ```
 
 ## Past
