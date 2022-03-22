@@ -3,7 +3,7 @@
 ## Current
 ```
 Names         Date Honoured	Date Ended
-Phum Luckkid    2022-03-21  2023-02-21
+Phumlaphee Luckkid    2022-03-21  2023-02-21
 Jace Manshadi   2021-05-12  2022-05-12
 Shariq Ahsan    2021-05-12  2022-05-12
 Cole Greer      2021-05-12  2022-05-12
