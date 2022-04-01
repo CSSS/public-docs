@@ -3,6 +3,7 @@
 ## Current
 ```
 Names         Date Honoured	Date Ended
+Rastko Koprivica2022-03-07 2023-03-07
 Phumlaphee Luckkid    2022-03-21  2023-02-21
 Jace Manshadi   2021-05-12  2022-05-12
 Shariq Ahsan    2021-05-12  2022-05-12
@@ -38,7 +39,7 @@ Ryan      Vansickle 2020-30-04  2021-30-04
 Jace      Manshadi  2020-30-04  2021-30-04
 Trevor    Gale      2020-30-04  2021-30-04
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Brigham XX              Oct 24, 2018    Oct 24, 2019
+Brigham Okano              Oct 24, 2018    Oct 24, 2019
 Andy Sun		Oct 10, 2018	  Oct 10, 2019
 Hailey Friesen          Sept 26, 2018   Sept 26, 2019
 Raiya Park              Sept 12, 2018    Sept 12, 2019
