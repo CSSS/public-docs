@@ -3,6 +3,15 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
+Wesley Chow         2022-06-09    2023-06-09
+Ratana Wang         2022-06-09    2023-06-09
+Akash Bhattal       2022-06-09    2023-06-09
+Ari Blondal         2022-06-09    2023-06-09
+Jason Manshadi      2022-06-09    2023-06-09
+Oscar Smith-Seiger  2022-06-09    2023-06-09
+Chun Kei Li         2022-06-09    2023-06-09
+Sarbjot Mann        2022-06-09    2023-06-09
+Lucy Yan            2022-06-09    2023-06-09
 Truman Bui          2022-05-26    2023-05-26
 Yolanda Lam         2022-05-26    2023-05-26
 John Wu             2022-05-26    2023-05-26
