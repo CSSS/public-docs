@@ -3,6 +3,9 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
+Allan Sanderson     2022-06-23    2022-06-23
+Douglas Du          2022-06-23    2022-06-23
+Jacques Widodo      2022-06-23    2022-06-23
 Wesley Chow         2022-06-09    2023-06-09
 Ratana Wang         2022-06-09    2023-06-09
 Akash Bhattal       2022-06-09    2023-06-09
