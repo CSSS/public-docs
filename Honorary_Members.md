@@ -3,7 +3,7 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
-Alan Sanderson      2022-06-23    2022-06-23
+Alan Saunderson     2022-06-23    2022-06-23
 Douglas Du          2022-06-23    2022-06-23
 Jacques Widodo      2022-06-23    2022-06-23
 Wesley Chow         2022-06-09    2023-06-09
