@@ -3,9 +3,11 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
-Alan Saunderson     2022-06-23    2022-06-23
-Douglas Du          2022-06-23    2022-06-23
-Jacques Widodo      2022-06-23    2022-06-23
+Winfield Chen       2022-09-26    2023-09-26
+Zaid Mohammed Ari   2022-09-26    2023-09-26
+Alan Saunderson     2022-06-23    2023-06-23
+Douglas Du          2022-06-23    2023-06-23
+Jacques Widodo      2022-06-23    2023-06-23
 Wesley Chow         2022-06-09    2023-06-09
 Ratana Wang         2022-06-09    2023-06-09
 Akash Bhattal       2022-06-09    2023-06-09
@@ -23,8 +25,6 @@ Ryan Lai            2022-05-26    2023-05-26
 Nikola Leung        2022-05-26    2023-05-26
 Rastko Koprivica    2022-03-07    2023-03-07
 Phumlaphee Luckkid  2022-03-21    2023-02-21
-Trevor Gale         2021-09-24    2022-09-24
-Darien Imai         2021-09-24    2022-09-24
 Parker Hao Tian     2021-10-22    2022-10-22
 Sahil Singh         2021-10-22    2022-10-22
 Zaid Lari           2021-11-05    2022-11-05
@@ -32,7 +32,9 @@ Tony Yu             2021-11-05    2022-11-05
 ```
 
 ## Past
-```  
+```
+Trevor Gale         2021-09-24    2022-09-24
+Darien Imai         2021-09-24    2022-09-24
 Cole Greer          2021-05-12    2022-05-12
 Winfield Chen       2021-05-12    2022-05-12
 Shariq Ahsan        2021-05-12    2022-05-12
