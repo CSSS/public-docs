@@ -4,7 +4,7 @@
 ```
 Names               Date Honoured Date Ended
 Winfield Chen       2022-09-26    2023-09-26
-Zaid Mohammed Ari   2022-09-26    2023-09-26
+Zaid Mohammed Lari  2022-09-26    2023-09-26
 Alan Saunderson     2022-06-23    2023-06-23
 Douglas Du          2022-06-23    2023-06-23
 Jacques Widodo      2022-06-23    2023-06-23
