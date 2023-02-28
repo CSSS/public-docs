@@ -3,6 +3,7 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
+Haerin Kim          2023-02-27    2024-02-27
 Don Van             2022-10-28    2023-10-28
 Winfield Chen       2022-09-26    2023-09-26
 Zaid Mohammed Lari  2022-09-26    2023-09-26
@@ -25,12 +26,13 @@ Shariq Ahsan        2022-05-26    2023-05-26
 Ryan Lai            2022-05-26    2023-05-26
 Nikola Leung        2022-05-26    2023-05-26
 Rastko Koprivica    2022-03-07    2023-03-07
-Phumlaphee Luckkid  2022-03-21    2023-02-21
-Tony Yu             2021-11-05    2022-11-05
 ```
 
 ## Past
 ```
+Phumlaphee Luckkid  2022-03-21    2023-02-21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tony Yu             2021-11-05    2022-11-05
 Parker Hao Tian     2021-10-22    2022-10-22
 Sahil Singh         2021-10-22    2022-10-22
 Trevor Gale         2021-09-24    2022-09-24
