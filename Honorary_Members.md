@@ -3,6 +3,7 @@
 ## Current
 ```
 Names               Date Honoured Date Ended
+Brandon Zhu         2023-03-13    2024-03-13
 Haerin Kim          2023-02-27    2024-02-27
 Don Van             2022-10-28    2023-10-28
 Winfield Chen       2022-09-26    2023-09-26
@@ -25,11 +26,11 @@ John Wu             2022-05-26    2023-05-26
 Shariq Ahsan        2022-05-26    2023-05-26
 Ryan Lai            2022-05-26    2023-05-26
 Nikola Leung        2022-05-26    2023-05-26
-Rastko Koprivica    2022-03-07    2023-03-07
 ```
 
 ## Past
 ```
+Rastko Koprivica    2022-03-07    2023-03-07
 Phumlaphee Luckkid  2022-03-21    2023-02-21
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Tony Yu             2021-11-05    2022-11-05
