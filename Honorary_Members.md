@@ -6,6 +6,16 @@ Names               Date Honoured Date Ended
 Brandon Zhu         2023-03-13    2024-03-13
 Haerin Kim          2023-02-27    2024-02-27
 Don Van             2022-10-28    2023-10-28
+Jason Manshadi      2023-05-19    2024-05-19
+Truman Bui          2023-05-19    2024-05-19
+Yolanda Lam         2023-05-19    2024-05-19
+John Wu             2023-05-19    2024-05-19
+Shariq Ahsan        2023-05-19    2024-05-19
+
+```
+
+## Past
+```
 Winfield Chen       2022-09-26    2023-09-26
 Zaid Mohammed Lari  2022-09-26    2023-09-26
 Alan Saunderson     2022-06-23    2023-06-23
@@ -15,20 +25,11 @@ Wesley Chow         2022-06-09    2023-06-09
 Ratana Wang         2022-06-09    2023-06-09
 Akash Bhattal       2022-06-09    2023-06-09
 Ari Blondal         2022-06-09    2023-06-09
-Jason Manshadi      2023-05-19    2024-05-19
 Oscar Smith-Seiger  2022-06-09    2023-06-09
 Chun Kei Li         2022-06-09    2023-06-09
 Sarbjot Mann        2022-06-09    2023-06-09
 Lucy Yan            2022-06-09    2023-06-09
-Truman Bui          2023-05-19    2024-05-19
-Yolanda Lam         2023-05-19    2024-05-19
-John Wu             2023-05-19    2024-05-19
-Shariq Ahsan        2023-05-19    2025-05-19
-
-```
-
-## Past
-```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ryan Lai            2022-05-26    2023-05-26
 Nikola Leung        2022-05-26    2023-05-26
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
