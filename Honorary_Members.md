@@ -15,6 +15,10 @@ Bo (Brian) Fu         2023-10-03    2024-10-03
 Mitchell Gale         2023-10-03    2024-10-03
 Graydon Baker         2023-10-17    2024-10-17
 Isaac Kwan-Sean Chan  2023-11-07    2024-11-07
+Brendan Saw           2024-01-19    2025-01-19
+Sam Killawee          2024-01-19    2025-01-19
+Michael Ho            2024-01-19    2025-01-19
+Micahel Owers         2024-01-19    2025-01-19
 ```
 
 ## Past
