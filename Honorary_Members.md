@@ -19,6 +19,8 @@ Brendan Saw           2024-01-19    2025-01-19
 Sam Killawee          2024-01-19    2025-01-19
 Michael Ho            2024-01-19    2025-01-19
 Micahel Owers         2024-01-19    2025-01-19
+Chloe Xie             2024-02-06    2025-02-06
+Kesley Rana           2024-02-06    2025-02-06
 ```
 
 ## Past
