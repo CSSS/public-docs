@@ -5,6 +5,19 @@
 Names                 Date Honoured Date Ended
 Sunayani Sarkar       2024-07-02    2025-07-02
 Michael Ho            2024-06-04    2025-06-04
+Bo (Brian) Fu         2023-10-03    2024-10-03
+Mitchell Gale         2023-10-03    2024-10-03
+Graydon Baker         2023-10-17    2024-10-17
+Isaac Kwan-Sean Chan  2023-11-07    2024-11-07
+Brendan Saw           2024-01-19    2025-01-19
+Sam Killawee          2024-01-19    2025-01-19
+Michael Owers         2024-01-19    2025-01-19
+Chloe Xie             2024-02-06    2025-02-06
+Kesley Rana           2024-02-06    2025-02-06
+```
+
+## Past
+```
 Haerin Kim            2023-02-27    2024-02-27
 Brandon Zhu           2023-03-13    2024-03-13
 Jason Manshadi        2023-05-19    2024-05-19
@@ -12,19 +25,6 @@ Truman Bui            2023-05-19    2024-05-19
 Yolanda Lam           2023-05-19    2024-05-19
 John Wu               2023-05-19    2024-05-19
 Shariq Ahsan          2023-05-19    2024-05-19
-Bo (Brian) Fu         2023-10-03    2024-10-03
-Mitchell Gale         2023-10-03    2024-10-03
-Graydon Baker         2023-10-17    2024-10-17
-Isaac Kwan-Sean Chan  2023-11-07    2024-11-07
-Brendan Saw           2024-01-19    2025-01-19
-Sam Killawee          2024-01-19    2025-01-19
-Micahel Owers         2024-01-19    2025-01-19
-Chloe Xie             2024-02-06    2025-02-06
-Kesley Rana           2024-02-06    2025-02-06
-```
-
-## Past
-```
 Don Van             2022-10-28    2023-10-28
 Winfield Chen       2022-09-26    2023-09-26
 Zaid Mohammed Lari  2022-09-26    2023-09-26
