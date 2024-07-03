@@ -18,13 +18,13 @@ Kesley Rana           2024-02-06    2025-02-06
 
 ## Past
 ```
-Haerin Kim            2023-02-27    2024-02-27
-Brandon Zhu           2023-03-13    2024-03-13
-Jason Manshadi        2023-05-19    2024-05-19
-Truman Bui            2023-05-19    2024-05-19
-Yolanda Lam           2023-05-19    2024-05-19
-John Wu               2023-05-19    2024-05-19
-Shariq Ahsan          2023-05-19    2024-05-19
+Haerin Kim          2023-02-27    2024-02-27
+Brandon Zhu         2023-03-13    2024-03-13
+Jason Manshadi      2023-05-19    2024-05-19
+Truman Bui          2023-05-19    2024-05-19
+Yolanda Lam         2023-05-19    2024-05-19
+John Wu             2023-05-19    2024-05-19
+Shariq Ahsan        2023-05-19    2024-05-19
 Don Van             2022-10-28    2023-10-28
 Winfield Chen       2022-09-26    2023-09-26
 Zaid Mohammed Lari  2022-09-26    2023-09-26
