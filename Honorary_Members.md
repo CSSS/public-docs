@@ -3,6 +3,7 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Ethan Lum             2024-07-30    2025-07-30
 David Pham            2024-07-16    2025-07-16
 Sunayani Sarkar       2024-07-02    2025-07-02
 Michael Ho            2024-06-04    2025-06-04
