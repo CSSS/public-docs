@@ -3,23 +3,24 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Yolanda Lam           2025-01-24    2026-01-24
 Ethan Lum             2024-07-30    2025-07-30
 David Pham            2024-07-16    2025-07-16
 Sunayani Sarkar       2024-07-02    2025-07-02
 Michael Ho            2024-06-04    2025-06-04
 Chloe Xie             2024-02-06    2025-02-06
 Kesley Rana           2024-02-06    2025-02-06
-Brendan Saw           2024-01-19    2025-01-19
-Sam Killawee          2024-01-19    2025-01-19
-Michael Owers         2024-01-19    2025-01-19
-Isaac Kwan-Sean Chan  2023-11-07    2024-11-07
-Graydon Baker         2023-10-17    2024-10-17
-Bo (Brian) Fu         2023-10-03    2024-10-03
-Mitchell Gale         2023-10-03    2024-10-03
 ```
 
 ## Past
 ```
+Brendan Saw         2024-01-19    2025-01-19
+Sam Killawee        2024-01-19    2025-01-19
+Michael Owers       2024-01-19    2025-01-19
+Isaac Kwan          2023-11-07    2024-11-07
+Graydon Baker       2023-10-17    2024-10-17
+Bo (Brian) Fu       2023-10-03    2024-10-03
+Mitchell Gale       2023-10-03    2024-10-03
 Haerin Kim          2023-02-27    2024-02-27
 Brandon Zhu         2023-03-13    2024-03-13
 Jason Manshadi      2023-05-19    2024-05-19
