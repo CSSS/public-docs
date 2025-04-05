@@ -3,17 +3,19 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Chloe Xie             2025-04-04    2026-04-04
+Amin Haikal Yusuf     2025-04-04    2026-04-04
+Martin Cam            2025-04-04    2026-04-04
 Yolanda Lam           2025-01-24    2026-01-24
 Ethan Lum             2024-07-30    2025-07-30
 David Pham            2024-07-16    2025-07-16
 Sunayani Sarkar       2024-07-02    2025-07-02
 Michael Ho            2024-06-04    2025-06-04
-Chloe Xie             2024-02-06    2025-02-06
-Kesley Rana           2024-02-06    2025-02-06
 ```
 
 ## Past
 ```
+Kesley Rana         2024-02-06    2025-02-06
 Brendan Saw         2024-01-19    2025-01-19
 Sam Killawee        2024-01-19    2025-01-19
 Michael Owers       2024-01-19    2025-01-19
