@@ -3,6 +3,7 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Nathan Hart           2025-06-05    2026-06-05
 Chloe Xie             2025-04-04    2026-04-04
 Amin Haikal Yusuf     2025-04-04    2026-04-04
 Martin Cam            2025-04-04    2026-04-04
