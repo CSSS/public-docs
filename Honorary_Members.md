@@ -3,6 +3,7 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Jayson Wu             2026-01-19    2027-01-19
 Michael Ho            2025-06-19    2026-06-19
 Isaac Kwan-Sean Chan  2025-06-19    2026-06-19
 Nathan Hart           2025-06-05    2026-06-05
