@@ -3,18 +3,21 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
-Jayson Wu             2026-01-19    2027-01-19
+Ryan Kwan             2026-04-10    2027-04-10
+Martin Cam            2026-04-10    2027-04-10
+Yolanda Lam           2026-04-10    2027-04-10
+Jayson Wu             2026-04-10    2027-04-10
 Michael Ho            2025-06-19    2026-06-19
 Isaac Kwan-Sean Chan  2025-06-19    2026-06-19
 Nathan Hart           2025-06-05    2026-06-05
-Chloe Xie             2025-04-04    2026-04-04
-Amin Haikal Yusuf     2025-04-04    2026-04-04
-Martin Cam            2025-04-04    2026-04-04
-Yolanda Lam           2025-01-24    2026-01-24
 ```
 
 ## Past
 ```
+Chloe Xie           2025-04-04    2026-04-04
+Amin Haikal Yusuf   2025-04-04    2026-04-04
+Martin Cam          2025-04-04    2026-04-04
+Yolanda Lam         2025-01-24    2026-01-24
 Ethan Lum           2024-07-30    2025-07-30
 David Pham          2024-07-16    2025-07-16
 Sunayani Sarkar     2024-07-02    2025-07-02
