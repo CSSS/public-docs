@@ -3,6 +3,8 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Jon Andre Briones     2026-05-22    2027-05-22
+Feve Omipon           2026-05-22    2027-05-22
 Ryan Kwan             2026-04-10    2027-04-10
 Martin Cam            2026-04-10    2027-04-10
 Yolanda Lam           2026-04-10    2027-04-10
