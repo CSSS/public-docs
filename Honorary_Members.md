@@ -3,6 +3,8 @@
 ## Current
 ```
 Names                 Date Honoured Date Ended
+Vedant Shah           2026-07-10    2027-07-10
+Anna Polunocheva      2026-07-10    2027-07-10
 Jon Andre Briones     2026-05-22    2027-05-22
 Feve Omipon           2026-05-22    2027-05-22
 Ryan Kwan             2026-04-10    2027-04-10
