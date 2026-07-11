@@ -11,13 +11,14 @@ Ryan Kwan             2026-04-10    2027-04-10
 Martin Cam            2026-04-10    2027-04-10
 Yolanda Lam           2026-04-10    2027-04-10
 Jayson Wu             2026-04-10    2027-04-10
-Michael Ho            2025-06-19    2026-06-19
-Isaac Kwan-Sean Chan  2025-06-19    2026-06-19
-Nathan Hart           2025-06-05    2026-06-05
+
 ```
 
 ## Past
 ```
+Michael Ho            2025-06-19    2026-06-19
+Isaac Kwan-Sean Chan  2025-06-19    2026-06-19
+Nathan Hart           2025-06-05    2026-06-05
 Chloe Xie           2025-04-04    2026-04-04
 Amin Haikal Yusuf   2025-04-04    2026-04-04
 Martin Cam          2025-04-04    2026-04-04
